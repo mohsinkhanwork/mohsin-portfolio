@@ -50,7 +50,7 @@ Everything lives in `index.html` and is grouped under commented section banners:
 | `STACK` | Skill groups and credentials |
 | `CONTACT` | Email, phone, profile links |
 
-**To add a project:** duplicate a card block and set `data-cat` to one of `erp`, `ecom`, `edu`, `infra` so the filter buttons pick it up.
+**To add a project:** duplicate a card block and set `data-cat` to one of `erp`, `ecom`, `edu`, `infra`, `cms` so the filter buttons pick it up.
 
 **To change the accent colour:** edit `--signal` (currently amber `#F2B441`) and `--trace` (cyan `#4FC3E8`) in `:root`.
 
